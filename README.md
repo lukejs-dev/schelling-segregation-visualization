@@ -1,8 +1,7 @@
-## Project Documentation was created with assistance from ai tools
-
 # Schelling's Segregation Model Visualization
 
 An interactive visualization of Schelling's Segregation Model using Streamlit. This project demonstrates how small individual preferences for similar neighbors can lead to large-scale segregation patterns.
+* Documentation was created with assistance from ai tools.
 
 ## About the Model
 
